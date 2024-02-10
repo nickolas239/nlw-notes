@@ -6,7 +6,7 @@ Este é um projeto desenvolvido em React.js com TypeScript, permitindo aos usuá
 - [Radix](https://radix-ui.com/): Uma coleção de componentes de interface de usuário acessíveis e sem estilo.
 - [date-fns](https://date-fns.org/): Uma biblioteca JavaScript moderna de manipulação de datas.
 - [Lucide React](https://github.com/lucide-icons/lucide): Ícones SVG para React baseados no Lucide.
-- [Sonner](https://sonner.dev/): Uma biblioteca JavaScript para gerar sons.
+- [Sonner](https://sonner.emilkowal.ski/): Uma biblioteca JavaScript para criar componentes toast.
 - API do navegador [LocalStorage](https://developer.mozilla.org/en-US/docs/Web/API/Window/localStorage): Para armazenamento local das notas do usuário.
 
 ## Funcionalidades
